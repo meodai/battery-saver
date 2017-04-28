@@ -9,7 +9,7 @@ Switches to power-saving Screensaver when not connected to power
 set batterySavingScreensaver to "Computer Name"
 set batteryDrainingScreensaver to "Aerial"
 ```
-4. and open directory in terminal and run
+4. Open directory in terminal and run
   ```
   . install.sh
   ```
