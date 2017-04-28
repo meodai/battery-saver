@@ -1,4 +1,4 @@
-# battery-saver 🔋
+# extended-battery-life-screen-saver 🔋
 Switches to power-saving Screensaver when not connected to power
 
 ## Installation
