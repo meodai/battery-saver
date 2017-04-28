@@ -13,3 +13,4 @@ set batteryDrainingScreensaver to "Aerial"
   ```
   . install.sh
   ```
+5. Restart OSX
